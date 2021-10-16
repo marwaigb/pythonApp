@@ -1,6 +1,8 @@
 # pythonApp
 #insrtruction for running via Dockerfile
-the in env\
+
+the code in env\ folder
+
 docker build -t bitcoin .
 
 docker run -it -p:5000:5000 bitcoin
